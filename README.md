@@ -1,64 +1,36 @@
 <h1 align='center'>
-  Hi there 👋 I'm Ulices 
+  👋 ¡Hola, soy Ulices!
 </h1>
 
-<!--
-The icons are from:
-https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
-
-<p align='center'>
-   <a href="https://gitlab.com/hasecilu">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ulicesah">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/hasecilu">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <!--
-  <a href="https://www.youtube.com/channel/UCbxysLkcAyw8kLn1TJT3W8w">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  -->
-</p>
-
-* I am interested on embedded systems
+* I am interested on embedded systems.
 * I am a FLOSS enjoyer.
-* I mostly use GitLab 🤘
-* From time to time I translate some text strings of my favorites FLOSS like KiCad and FreeCAD
-* ⚡ Fun fact: There is no fun fact! :P <!--That was funny-->
+* I translate some of my favorites FLOSS like KiCad and FreeCAD to Spanish.
 
+## Preferred tools
 
-## Languages and tools
+<div>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" alt="Neovim" title="Neovim"/></code>
+</div>
 
-* <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-* <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
-* <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-* <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-* <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+## Programming languages
 
+<div>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/></code>
+</div>
 
-## OS
+## Learning
 
-You can check some of my configurations [here](https://gitlab.com/hasecilu/dotfiles)! Post-install scripts for Ubuntu and Fedora & more.
-
-* <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-* <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-* <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-
-## Some hobby projects
-
-### CNC
-Small CNC to mill PCBs: https://gitlab.com/hasecilu/diy-pcb-cnc
-<img src="https://gitlab.com/hasecilu/diy-pcb-cnc/-/raw/master/images/assembly.png"/>
-
-### P&P
-Mods from the LumenPnP project by opulo: https://github.com/hasecilu/lumenpnp23/tree/hasecilu
-<img src="https://github.com/hasecilu/lumenpnp23/blob/hasecilu/img/LumenPnP23.jpg"/>
+<div>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust"/></code>
+</div>
 
 ---
 
-![hasecilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasecilu&show_icons=true&theme=tokyonight)
+![hasecilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasecilu&show_icons=true&include_all_commits=true&theme=tokyonight)
