@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am interested on embedded systems
 
 <!--
 **hasecilu/hasecilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
