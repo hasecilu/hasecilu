@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/ulicesah">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/hasecilu">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+  </a>&nbsp;&nbsp;
   
 </p>
 
