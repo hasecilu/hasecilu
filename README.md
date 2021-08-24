@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  I am interested on embedded systems and FOSS enjoyer
+  I am interested on embedded systems and a FOSS enjoyer
 </p>
 
 Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-1553653178073030), electronics team.
