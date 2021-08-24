@@ -3,12 +3,6 @@
 </h1>
 
 <p align='center'>
-  I am interested on embedded systems and a FOSS enjoyer
-</p>
-
-Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-1553653178073030), electronics team.
-
-<p align='center'>
    <a href="https://gitlab.com/hasecilu">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -22,6 +16,10 @@ Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-155365317807
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+I am interested on embedded systems and a FOSS enjoyer.
+
+Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-1553653178073030), electronics team.
 
 ## Languages and tools
 
