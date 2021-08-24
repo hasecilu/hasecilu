@@ -6,6 +6,8 @@
   I am interested on embedded systems and FOSS enjoyer
 </p>
 
+Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-1553653178073030), electronics team.
+
 <p align='center'>
    <a href="https://gitlab.com/hasecilu">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
