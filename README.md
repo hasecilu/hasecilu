@@ -2,6 +2,12 @@
   Hi there 👋 I'm Ulices 
 </h1>
 
+
+<!--
+The icons are from:
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+-->
+
 <p align='center'>
    <a href="https://gitlab.com/hasecilu">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -44,6 +50,7 @@ Member of [team THOR](https://www.facebook.com/Team-Thor-UPIITA-IPN-155365317807
 </p>
 
 <!--
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 Otaku de closet
 <p>
   <a href="https://myanimelist.net/profile/hasecilu">
@@ -51,6 +58,7 @@ Otaku de closet
   </a>&nbsp;&nbsp;
 </p>
 -->
+
 <!--
 **hasecilu/hasecilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
